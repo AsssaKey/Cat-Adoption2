@@ -1,0 +1,41 @@
+# 💥 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🐍 Virtual environments
+venv/
+.pythonlibs/
+
+# 🧪 Test reports and environments
+.coverage
+.pytest_cache/
+
+# 📦 Package metadata
+*.egg-info/
+dist/
+build/
+
+# 💻 macOS system files
+.DS_Store
+
+# 📑 Logs and environment config
+.env
+*.log
+
+# 💡 VS Code settings (if used locally)
+.vscode/
+
+# 🔒 Replit-specific
+.replit
+.replit.hidden/
+.replit.nix/
+replit.nix
+
+# 📸 Screenshot assets (optional — comment this out if you want to include them)
+# screenshots/
+
+# 🗑️ System trash
+*.swp
+*.bak
+*~
